@@ -27,6 +27,7 @@ This repository contains three folders:
 
 
 References:
+
 Auping, W. (2011). The uncertain future of copper: An exploratory system dynamics model and 	analysis of the global copper system in the next 40 years (Master’s thesis, Delft University of 	Technology). Retrieved from 	https://repository.tudelft.nl/islandora/object/uuid%3A4998f817-848d-4879-9d5f-2c0bd9ee4c81
 
 Van der Linden, E. (2020). Exploration of the cobalt system: Scenarios for a critical material for the 	energy system (Master’s thesis, Delft University of Technology). Retrieved from 	https://repository.tudelft.nl/islandora/object/uuid%3Ae51dbb87-09f7-4c33-a956-226874a
