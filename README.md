@@ -14,12 +14,15 @@ This research evaluates the effect substitution of REEs might have on the long-t
 ## Folder structure
 This repository contains three folders:
 1. Model
+
    This folder contains the model (model_ndfeb_subst.vpmx).
 3. Simulation
+
    This folder contains two Jupyter notebooks
    - _Generate results.ipynb_: In this notebook, model is simulated, the uncertain variables are introduced and the uncertainty range of these variables is given.
    - _Cluster results.ipynb_: In this notebook runs are clustered, both on the amount of electric cars in use and on the amount of wind energy in use.  
 5. Analysis
+
    This folder contain three Jupyter notebooks:
    - _Chapter 3.4.3 - replicative validation.ipynb_: In this notebook the figure for replicative validation in chapter 3.4.3 is generated. The model outcomes regarding demand of Neodymium is compared to projections from related research.
    - _Chapter 4.1 - Development of the system.ipynb_: In this notebook the figures pertaining to the development of REEs, electric cars and wind turbines, discussed in chapter 4.1, are generated.
