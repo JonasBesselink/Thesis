@@ -13,12 +13,14 @@ This research evaluates the effect substitution of REEs might have on the long-t
 
 ## Folder structure
 This repository contains three folders:
-1. Model
+1. Model:
 
-   This folder contains the model (model_ndfeb_subst.vpmx).
+   This folder contains two models:
+   - _model_ndfeb_subst.mdl_: This model can be used to open and to play around by yourself.
+   - _model_ndfeb_subst.vpmx_: This model has the right extension, so that it can be used to simulate in the jupyter notebooks.
 3. Simulation
 
-   This folder contains two Jupyter notebooks
+   This folder contains two Jupyter notebooks:
    - _Generate results.ipynb_: In this notebook, model is simulated, the uncertain variables are introduced and the uncertainty range of these variables is given.
    - _Cluster results.ipynb_: In this notebook runs are clustered, both on the amount of electric cars in use and on the amount of wind energy in use.  
 5. Analysis
