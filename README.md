@@ -22,7 +22,7 @@ This repository contains three folders:
 
    This folder contains two Jupyter notebooks:
    - _Generate results.ipynb_: In this notebook, model is simulated, the uncertain variables are introduced and the uncertainty range of these variables is given.
-   - _Cluster results.ipynb_: In this notebook runs are clustered, both on the amount of electric cars in use and on the amount of wind energy in use.  
+   - _Clustering.ipynb_: In this notebook runs are clustered, both on the amount of electric cars in use and on the amount of wind energy in use.  
 5. Analysis
 
    This folder contain three Jupyter notebooks:
